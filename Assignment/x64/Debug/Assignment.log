@@ -1,0 +1,19 @@
+﻿  staff.c
+C:\Users\limsh\source\repos\Assignment\staff.c(127,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\limsh\source\repos\Assignment\staff.c(127,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\limsh\source\repos\Assignment\staff.c(129,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\limsh\source\repos\Assignment\staff.c(130,9): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\limsh\source\repos\Assignment\staff.c(132,9): warning C4129: '_': unrecognized character escape sequence
+C:\Users\limsh\source\repos\Assignment\staff.c(172,47): warning C4101: 'checkic': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(170,12): warning C4101: 'check': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(191,8): warning C4101: 'gender': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(945,22): warning C4047: '==': 'char [7]' differs in levels of indirection from 'int'
+C:\Users\limsh\source\repos\Assignment\staff.c(1283,11): warning C4013: '_getch' undefined; assuming extern returning int
+C:\Users\limsh\source\repos\Assignment\staff.c(1256,8): warning C4101: 'readPt': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1259,8): warning C4101: 'login': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1364,19): warning C4101: 'id': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1506,30): warning C4101: 'convertPtr1': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1469,7): warning C4101: 'choice': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1468,6): warning C4101: 'range1': unreferenced local variable
+C:\Users\limsh\source\repos\Assignment\staff.c(1468,14): warning C4101: 'range2': unreferenced local variable
+  Assignment.vcxproj -> C:\Users\limsh\source\repos\Assignment\x64\Debug\Assignment.exe
